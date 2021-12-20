@@ -1,1 +1,1 @@
-## Harris'in çok amaçlı alanına hoşgeldin!
+# Harris'in çok amaçlı alanına hoşgeldin!
