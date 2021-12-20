@@ -1,1 +1,9 @@
-# Harris'in çok amaçlı alanına hoşgeldin!
+## Harris'in çok amaçlı alanına hoşgeldin!
+
+Burada ne mi yapıyorum? hiçbirşey...
+
+tamamen...
+
+yüzde yüz...
+
+burada hiçbirşey yok (yalan)
